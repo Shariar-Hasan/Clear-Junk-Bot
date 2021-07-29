@@ -22,14 +22,15 @@ not much hardcoded or not a special script. Its just a simple file.
     <li>In Case, If your pc doesn't give permission to run the script, just right click on it and click "Run as Administrator".</li>
 </ul>
 </fieldset>
-
+<br/>
 <figure>
     <blockquote>Thanks for using this script" :)
     </blockquote>
     <figcaption><i>Shariar Hasan</i></figcaption>
 </figure>
-
+<br/>
 
 
 Github: <a href="https://github.com/Shariar-Hasan">Visit My Profile</a>
+
 Repositoy Link:  <a href="https://github.com/Shariar-Hasan/Clear-Junk-Bot">Clear Junk Bot</a>
