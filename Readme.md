@@ -14,7 +14,8 @@ Hi! Welcome to **Clear Junk Bot** description section. **Clear Junk Bot** is:
 Clear Junk Bot is quite easy to install. You can install it to your computer in two ways:
 
  1. Open your command prompt and go to the folder you want to install it. Then type this command  `git clone https://github.com/Shariar-Hasan/Clear-Junk-Bot.git`  This will download the whole file for you. 
- 2. Click on the code button and click ***download as zip***  as the below image says:![The Code Button](https://i.ibb.co/f4fPZ9C/Screenshot-2021-08-15-125430.png)
+ 2. Click on the code button and click ***download as zip***  as the below image says:
+ 	![The Code Button](https://i.ibb.co/f4fPZ9C/Screenshot-2021-08-15-125430.png)
 
 
 # How to use
@@ -24,11 +25,13 @@ Lets See how to use the Clear Junk Bot
  -  ###  File use
        The downloaded/ cloned file will be look alike this:
        ![File Structure](https://i.ibb.co/Prq1Xrm/Screenshot-2021-08-15-121925.png)
- Icon folder contains a simple icon of cleaner.
+       
+ 	Icon folder contains a simple icon of cleaner.
 You can use both the real script and shortcut script if you want. But I recommend to use the shortcut file which is selected in the picture above. Just copy this file to your whatever folder and use it from there.
 
 - ### Insider Look
 	When you will run the script the script will look like this:
+	
 
 	![Insider Look](https://i.ibb.co/1sxfBQh/Screenshot-2021-08-15-121358.png)
 
@@ -42,6 +45,7 @@ You can use both the real script and shortcut script if you want. But I recommen
     If you want  to kick the timer section out and make the script one click quick run just delete the section area shown below for every part.
 `echo` and `timeout` are the part of section area.
 Remember! delete this if you want your code to run fast, else you don't need to touch the section area.
+
 ![Section Area selected image](https://i.ibb.co/jg6xK7K/red.png)
 
     *!Warning: do not erase the code area !!!*
@@ -52,12 +56,13 @@ you can see in line 10,
 `color 90` this is the color of background and text.
 the first digit denotes the color of background and second digit denotes the color of font .
 By default, background color denotes 9 which is blue and the font color denotes 0 which is black. like the picture below:
-![colored environment codeview](https://i.ibb.co/TRZnwXF/color.png)
 
-    the color codes are given below  for betterment. If you want to change color, then you can customize of your own.
+	![colored environment codeview](https://i.ibb.co/TRZnwXF/color.png)
+
+   the color codes are given below  for betterment. If you want to change color, then you can customize of your own.
 
 
-    ##### Color Codes:				
+   ##### Color Codes:				
 ```
 0 = black							A = lime
 1 = navy							B = aqua
