@@ -4,14 +4,12 @@ TITLE Clear BOT by Shariar Hasan
 
 
 
-		::Environment cutomization area
-
-:: customize color		
-color 90
+:: Environment customization area
+:: customize color
+color 0A
 
 :: customize width
 mode 100
-
 
 
 ::Deletes All files in the Current Directory With Prompts and Warnings
